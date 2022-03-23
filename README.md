@@ -1,7 +1,7 @@
-### Hi there, Benjamin - aka [Tsubarah][website] 👋 
+### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
 
 
-## I'm currently a Front End Developer student trying to soak up all the knowledge I come across !!
+## Currently a Front End Developer student exploring and soaking up all the knowledge I come across !!
 
 - 🔭 Check out 
 - 🌱 I’m currently learning everything 🤣
