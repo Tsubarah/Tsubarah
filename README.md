@@ -34,9 +34,9 @@
 
 
 
-<img align="left" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=gruvbox&show_icons=true&hide_border=false&hide=stars&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=gruvbox" />
 
-
+<!-- &show_icons=true&hide_border=false&hide=stars&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 -->
 
 [website]: https://tsubarah.com
 [linkedin]: https://linkedin.com/in/Tsubarah
