@@ -33,10 +33,13 @@
 <br />
 
 
+<a href="https://github.com/Tsubarah">
+    <img align="left" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
+</a>
 
-<img align="left" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
-
-<img align="right" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&langs_count=3" />
+<a href="https://github.com/Tsubarah">
+    <img align="right" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&langs_count=3&layout=compact" />
+</a>
 
 <!-- &show_icons=true&hide_border=false&hide=stars&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 -->
 
