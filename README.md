@@ -1,4 +1,4 @@
-<h3 color="#a177fe"> Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 </h3>
+### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
 
 
 ## Currently a Front End Developer student exploring and soaking up all the knowledge I come across !!
