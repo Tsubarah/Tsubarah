@@ -24,6 +24,8 @@
 
 <img align="right" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&langs_count=3&layout=compact" />
 
+<br />
+<br />
 
 ### Languages and Tools:
 
