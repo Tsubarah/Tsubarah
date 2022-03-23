@@ -1,6 +1,3 @@
-![giphy](https://user-images.githubusercontent.com/67978743/159774972-3999bf9f-9691-4bed-bf29-e10acdf7e658.gif)
-
-
 ### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
 
 
