@@ -19,10 +19,12 @@
 
 ## Stats and Skills:
 
-<img float="left" width="50%" padding="0px" style="display:inline" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
+<p float="left">
+<img width="50%" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
 
 
-<img float="right" width="50%" padding="0px" style="display:inline" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&langs_count=3&layout=compact" />
+<img width="50%" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&langs_count=3&layout=compact" />
+</p>
 
 
 ### Languages and Tools:
