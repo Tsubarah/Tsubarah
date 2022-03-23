@@ -17,7 +17,7 @@
 <br />
 <br />
 
-## STATS AND SKILLS:
+## Stats and Skills:
 
 <img align="center" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
 
