@@ -40,7 +40,6 @@
 <br />
 
 ### Find me at:
-<br />
 <a href="https://tsubarah.com">
   tsubarah.com
 </a>
