@@ -1,4 +1,4 @@
-![ Alt text](welcome.gif) / ! [](welcome.gif)
+![ Alt text](welcome.gif)
 
 ### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
 
