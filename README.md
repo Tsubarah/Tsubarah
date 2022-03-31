@@ -3,18 +3,14 @@
 ### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
 
 
-## Currently a Front End Developer student exploring and soaking up all the knowledge I come across !!
+## A Front End Developer student exploring and soaking up all the knowledge I come across !!
 
-- 🔭 Check out 
+- 🔭 Check out https://www.cryptovoxels.com/play for a virtual experience 🤩
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking for more interesting projects to code!
 - 🥅 2022 Goals: Improve my programing skills and expand my social network within the programing community
 - ⚡ Other than coding: I love to stay active and healthy for body and soul
-- Fun fact: 
-
-### Connect with me:
-
-
+- Fun fact: Bluetooth was named after a tenth-century king, Harald Bluetooth, King of Denmark and Norway. 
 
 <br />
 <br />
@@ -42,6 +38,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 
+### Connect with me:
 
 [website]: https://tsubarah.com
 [linkedin]: https://linkedin.com/in/Tsubarah
