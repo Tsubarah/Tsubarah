@@ -1,3 +1,5 @@
+![ Alt text](welcome.gif) / ! [](welcome.gif)
+
 ### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
 
 
@@ -23,7 +25,7 @@
 <img width="55%" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
 
 
-<img width="44%" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&theme=aura&line_height=40&langs_count=3&layout=compact" />
+<img width="44%" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&theme=aura&langs_count=3&layout=compact" />
 </p>
 
 
