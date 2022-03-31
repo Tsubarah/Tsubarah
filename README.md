@@ -40,8 +40,12 @@
 <br />
 ### Find me at:
 <br />
-https://tsubarah.com
-https://linkedin.com/in/Tsubarah
+<a href="https://tsubarah.com">
+  tsubarah.com
+</a>
+<a href="https://linkedin.com/in/Tsubarah">
+    linkedin
+</a>
 
 [website]: https://tsubarah.com
 [linkedin]: https://linkedin.com/in/Tsubarah
