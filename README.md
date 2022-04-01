@@ -10,7 +10,6 @@
 - 👯 I'm open for an internship opportunity for this fall.
 - 🥅 2022 Goals: Improve my programing skills and expand my social network within the programing community
 - ⚡ Other than coding: I love to stay active and healthy for body and soul
-- Fun fact: Bluetooth was named after a tenth-century king, Harald Bluetooth, King of Denmark and Norway. 
 
 <br />
 <br />
