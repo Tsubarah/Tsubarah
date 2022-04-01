@@ -6,7 +6,7 @@
 ## A Front-End Developer student exploring and soaking up all the knowledge I come across
 
 - 🔭 Check out https://www.cryptovoxels.com/play for a virtual experience 🤩
-- 🌱 I’m currently learning JavaScript, React, REST and NodeJS
+- 💻 I’m currently learning JavaScript, React, REST and NodeJS
 - 👯 I'm open for an internship opportunity for this fall.
 - 🥅 2022 Goals: Improve my programing skills and expand my social network within the programing community
 - ⚡ Other than coding: I love to stay active and healthy for body and soul
