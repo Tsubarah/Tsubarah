@@ -3,7 +3,7 @@
 ### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
 
 
-## A Front-End Developer student exploring my path
+<h2 align="center">A Front-End Developer student exploring my path<h2>
 
 - 🔭 Check out https://www.cryptovoxels.com/play for a virtual experience 🤩
 - 💻 I’m currently learning JavaScript, React, REST and NodeJS
