@@ -3,16 +3,13 @@
 
 ### <h3 align="center"> Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 </h3>
 
-<h2 align="center">A Front-End Developer student exploring my path<h2>
+## <h2 align="center">A Front-End Developer student exploring my path<h2>
 
-<div font-size="1em">
 - 🔭 Check out https://www.cryptovoxels.com/play for a virtual experience 🤩
-<br />
 - 💻 I’m currently learning JavaScript, React, REST and NodeJS
 - 👯 I'm open for an internship opportunity for this fall.
 - 🥅 2022 Goals: Improve my programing skills and expand my social network within the programing community
 - ⚡ Other than coding: I love to stay active and healthy for body and soul
-</div>
 
 <br />
 <br />
