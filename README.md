@@ -21,7 +21,7 @@
 ## Stats and Skills:
 
 <a href="https://github.com/tsubarah">
-  <img align="center" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
+  <img align="center" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars&line_height=27" />
 </a>
 
 <a href="https://github.com/tsubarah">
