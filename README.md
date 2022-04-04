@@ -14,19 +14,14 @@
 <br />
 <br />
 
-  <!-- <img width="55%" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" /> -->
-
-  <!-- <img width="44%" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&theme=aura&langs_count=3&layout=compact" /> -->
-
 ## Stats and Skills:
 
-<a href="https://github.com/tsubarah">
-  <img align="center" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars&line_height=27" />
-</a>
+<p float="left">
+<img width="55%" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
 
-<a href="https://github.com/tsubarah">
-  <img align="center" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&theme=aura&langs_count=3&layout=compact" />
-</a>
+
+<img width="44%" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&theme=aura&langs_count=3&layout=compact" />
+</p>
 
 
 ### Languages and Tools:
