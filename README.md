@@ -18,7 +18,7 @@
 ## Stats and Skills:
 
 <p float="left">
-<img width="55%" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
+<img width="55%" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false" />
 
 
 <img width="44%" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&theme=aura&langs_count=3&layout=compact" />
