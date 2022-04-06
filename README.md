@@ -1,16 +1,15 @@
 ![ Alt text](welcome-black.gif)
 
-### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
 
+### <h3 align="center"> Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 </h3>
 
-## A Front End Developer student exploring and soaking up all the knowledge I come across
+## <h2 align="center">A Front-End Developer student exploring my path </h2>
 
 - 🔭 Check out https://www.cryptovoxels.com/play for a virtual experience 🤩
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for more interesting projects to code!
+- 💻 I’m currently learning JavaScript, React, REST and NodeJS
+- 👯 I'm open for an internship opportunity for this fall.
 - 🥅 2022 Goals: Improve my programing skills and expand my social network within the programing community
 - ⚡ Other than coding: I love to stay active and healthy for body and soul
-- Fun fact: Bluetooth was named after a tenth-century king, Harald Bluetooth, King of Denmark and Norway. 
 
 <br />
 <br />
