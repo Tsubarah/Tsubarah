@@ -52,9 +52,5 @@
 <br />
 <a href="https://linkedin.com/in/Tsubarah" target="_blank">linkedin</a>
 
-<a href="https://tsubarah.com" target="_blank">tsubarah.com</a>
-<br />
-<a href="https://linkedin.com/in/Tsubarah" target="_blank">linkedin</a>
-
-<!-- [website]: https://tsubarah.com
-[linkedin]: https://linkedin.com/in/Tsubarah -->
+[website]: https://tsubarah.com
+[linkedin]: https://linkedin.com/in/Tsubarah
