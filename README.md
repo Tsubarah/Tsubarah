@@ -2,11 +2,11 @@
 
 ### Hi there, my name is Benjamin [Tsubarah][website] 👋
 
-## A Front End Developer enjoying the ride of life
+## A Web Developer enjoying the ride
 
-- 🌱 I'm currently learning how to improve architectural strategies in web development.
-- 👯 I'm looking for more interesting projects to code!
-- 🥅 2025 Goals: Dive deeper into backend development.
+- 🌱 I’m currently learning how to enhance the implementation and research aspects of web development architecture.
+- 👯 I'm always looking for more interesting projects to code!
+- 🥅 2025 Goals: Dive deeper into the solutions of backend development.
 - ⚡ Beyond coding: I love staying active and healthy for both body and soul.
 
 <br />
