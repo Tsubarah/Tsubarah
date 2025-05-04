@@ -1,16 +1,13 @@
 ![ Alt text](welcome-black.gif)
 
-### Hi there, my name is Benjamin - aka [Tsubarah][website] 👋 
+### Hi there, my name is Benjamin [Tsubarah][website] 👋
 
+## A Front End Developer enjoying the ride of life
 
-## A Front End Developer student exploring and soaking up all the knowledge I come across
-
-- 🔭 Check out https://www.cryptovoxels.com/play for a virtual experience 🤩
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning how to improve architectural strategies in web development.
 - 👯 I’m looking for more interesting projects to code!
-- 🥅 2022 Goals: Improve my programing skills and expand my social network within the programing community
-- ⚡ Other than coding: I love to stay active and healthy for body and soul
-- Fun fact: Bluetooth was named after a tenth-century king, Harald Bluetooth, King of Denmark and Norway. 
+- 🥅 2025 Goals: Dive deeper into backend development.
+- ⚡ Beyond coding: I love staying active and healthy for both body and soul.
 
 <br />
 <br />
@@ -20,10 +17,8 @@
 <p float="left">
 <img width="55%" alt="Tsubarah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tsubarah&theme=aura&show_icons=true&hide_border=false&hide=stars" />
 
-
 <img width="44%" alt="Tsubarahs most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsubarah&theme=aura&langs_count=3&layout=compact" />
 </p>
-
 
 ### Languages and Tools:
 
@@ -40,6 +35,7 @@
 <br />
 
 ### Find me at:
+
 <a href="https://tsubarah.com">
   tsubarah.com
 </a>
