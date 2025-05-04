@@ -40,13 +40,17 @@
 
 ### Find me at:
 
-<a href="https://tsubarah.com">
+<!-- <a href="https://tsubarah.com">
   tsubarah.com
 </a>
 <br />
 <a href="https://linkedin.com/in/Tsubarah">
     linkedin
-</a>
+</a> -->
+
+<a href="https://tsubarah.com" target="_blank">tsubarah.com</a>
+<br />
+<a href="https://linkedin.com/in/Tsubarah" target="_blank">linkedin</a>
 
 <a href="https://tsubarah.com" target="_blank">tsubarah.com</a>
 <br />
