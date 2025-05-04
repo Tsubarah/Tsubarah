@@ -10,7 +10,6 @@
 - ⚡ Beyond coding: I love staying active and healthy for both body and soul.
 
 <br />
-<br />
 
 ## Stats and Skills:
 
