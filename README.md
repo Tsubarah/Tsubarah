@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning how to enhance the implementation and research aspects of web development architecture.
 - 👯 I'm always looking for more interesting projects to code!
 - 🥅 2025 Goals: Dive deeper into the solutions of backend development.
+- ☀️ Currently stationed in ~~Sweden~~ Israel
 - ⚡ Beyond coding: I love staying active and healthy for both body and soul.
 
 <br />
